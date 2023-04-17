@@ -6,7 +6,8 @@ public class Main {
                 .addProduct(new Product("Сыр", 100.2, 5))
                 .addProduct(new ConcentrateMilk("Советская", 150, 1))
                 .addProduct(new Chocolate("Аленка", 35.20,3, "Ореховый"))
-                .addProduct(new Arabica("Lavatsa", 800, 1));
+                .addProduct(new Arabica("Lavatsa", 800, 1))
+                .addProduct(new Croissant("Круасан", 200, 10));
 //        System.out.println("До продажи");
 
 //        System.out.println(mart);
